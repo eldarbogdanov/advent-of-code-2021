@@ -2,7 +2,7 @@ import sys
 
 x = 0
 y = 0
-with open("d1.in") as f:
+with open("test.in") as f:
     lines = f.readlines()
     for line in lines:
         a = line.split(" ")[0]

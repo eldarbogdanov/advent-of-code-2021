@@ -1,4 +1,4 @@
 .idea/*
 *.iml
-test.in
+python/test.in
 out/*
