@@ -2,3 +2,4 @@
 *.iml
 python/test.in
 out/*
+java/src/Solution.java
