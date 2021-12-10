@@ -1,4 +1,6 @@
 .idea/*
+test.in
+python/temp.py
 *.iml
 python/test.in
 out/*
