@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class Solution {
+public class d19p12 {
     static class Beacon {
         int[] coord;
 
